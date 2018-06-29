@@ -47,7 +47,3 @@ voilà ce qui l'en a été retenu ;
 * CAMIOOONNNNN (animation CSS)
 * optimiser Lighthouse
 * favicon
-
-
-### Courte Description :
-Site one-page responsive d'une coopérative de récolte d'encombrants. Projet réalisé par groupe de trois en 6 heures à l'aide de Bootstrap lors d'une compétition de la formation Web Dev BeCode.org à Bruxelles. Début juin 2018. 
